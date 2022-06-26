@@ -6,7 +6,7 @@ If you want to know more, search with "vscode markdown" or refer to official doc
 
 -->
 
-# C Simple Static Library
+# C Static Library Sample
 
 The sample of static library. 
 
